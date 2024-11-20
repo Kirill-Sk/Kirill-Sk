@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Kirill Skapovsky
 
-<!--
-**Kirill-Sk/Kirill-Sk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm a Data analyst
+- I've got into this profession to get some experience in research and analys
+- I've used my analyst skills in my sociological researches
 
-Here are some ideas to get you started:
+### Contact me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Languages and Tools:
+- Python (Pandas, Matplotlib, Seaborn)
+- PostgreSQL
+- Tableau
+- Google Spreadsheets
+- MS Powerpoint
